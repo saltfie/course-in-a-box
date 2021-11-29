@@ -30,6 +30,6 @@ prose:
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
 jumbotron_color: "#990000"
-jumbotron_image: "![alt](https://i1.wp.com/taikosource.com/wp-content/uploads/2014/09/ChuDaiko_2856-6x8-72ppi.jpg)"
+jumbotron_image: "img/ChuDaiko_2856-6x8-72ppi.jpg"
 # jumbotron_mask: "img/jumbotron-mask.svg"
 jumbotron_icon: "img/box-icon.png"
