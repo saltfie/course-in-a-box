@@ -1,3 +1,6 @@
+---
+title: Syllables
+---
 Here are some generally understood syllables and their descriptions.
 
 * **Don** a loud single hit on the drum head, at a slow pace
