@@ -11,4 +11,4 @@ This quick tutorial will show you how to learn rhythms, stance, and a short song
 
 #### About this tutorial
 
-The design of this course is based on P2PU's [Course-in-a-Box] (https://github.com/p2pu/course-in-a-box) as an assignment for the Library Juice Academy Class, Git/GitHub for Librarians, taught by Chris Diaz.
+The design of this course is based on P2PU's [Course-in-a-Box](https://github.com/p2pu/course-in-a-box) as an assignment for the [Library Juice Academy](https://libraryjuiceacademy.com/) class, Git and GitHub for Librarians, taught by [Chris Diaz](https://chrisdaaz.github.io/).
