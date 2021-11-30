@@ -5,10 +5,9 @@ published: true
 This quick tutorial will show you how to learn rhythms, stance, and a short song. You can play on any surface (or in the air!), with any kind of sticks.
 * **[Kuchishoga](/modules/kuchishoga/introduction)** - Learn rhythms by saying them
 * **[Drumming](/modules/drumming/drums)** -  How to make your own drums and play on them
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+* **[Song](/modules/song/renshu-kuchishoga)** - Learn how to play a beginners song
 
 <br> 
-
 #### About this tutorial
 
 The design of this course is based on P2PU's [Course-in-a-Box](https://github.com/p2pu/course-in-a-box) as an assignment for the [Library Juice Academy](https://libraryjuiceacademy.com/) class, Git and GitHub for Librarians, taught by [Chris Diaz](https://chrisdaaz.github.io/).
