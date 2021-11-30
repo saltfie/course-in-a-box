@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 This quick tutorial will show you how to learn rhythms, stance, and a short song. You can play on any surface (or in the air!), with any kind of sticks.
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
+* **[Kuchishoga](/modules/kuchishoga/introduction/)** - Learn rhythms by saying them
 * **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
 * **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
 
