@@ -1,3 +1,6 @@
+---
+title: Resources
+---
 This tutorial is to give you a quick introduction to playing taiko. Here are some resources for further exploration:
 
 * [KaDON](https://kadon.com/) - An online subscription site for learning the basics as well as advanced skills.
