@@ -1,7 +1,7 @@
 ---
 title: Renshu Kuchishoga
 ---
-**Renshu** means "practice" in Japanese. This song is often the first song that beginning taiko players learn. It contains most of the basic rhythmic patterns in many taiko songs. The kuchishoga is learned first, then learning to play the rhythms on the taiko.
+**Renshu** means "practice" in Japanese. This song is often the first song that beginning taiko players learn. It contains most of the basic rhythmic patterns in many taiko songs. The kuchishoga is learned first, then one learns to play the rhythms on the taiko.
 
 Practice saying the kuchishoga to Renshu. The "So-re" in the penultimate line is to say it aloud without hitting the drum.
 
