@@ -4,8 +4,8 @@ published: true
 ---
 This quick tutorial will show you how to learn rhythms, stance, and a short song. You can play on any surface (or in the air!), with any kind of sticks.
 * **[Kuchishoga](https://saltfie.github.io/course-in-a-box/modules/kuchishoga/introduction/)** - Learn rhythms by saying them
-* **[Drumming](/modules/drumming/drums)** -  How to make your own drums and play on them
-* **[Song](/modules/song/renshu-kuchishoga)** - Learn how to play a beginners song
+* **[Drumming](https://saltfie.github.io/course-in-a-box/modules/drumming/drums)** -  How to make your own drums and play on them
+* **[Song](https://saltfie.github.io/course-in-a-box/modules/song/renshu-kuchishoga)** - Learn how to play a beginners song
 
 <br> 
 #### About this tutorial
